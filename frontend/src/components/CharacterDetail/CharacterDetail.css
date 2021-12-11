@@ -1,0 +1,16 @@
+#detail-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.value-input {
+  padding: 10px;
+  width: 300px;
+}
+
+.input-label {
+  margin: auto;
+  width: 40px;
+}

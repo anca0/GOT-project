@@ -1,0 +1,15 @@
+#create-modal-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.modal-value-input {
+  padding: 10px;
+  width: 300px;
+}
+
+.modal-input-label {
+  margin: auto;
+  width: 60px;
+}
