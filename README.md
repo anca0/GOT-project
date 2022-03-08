@@ -1,5 +1,5 @@
 # GOT-project
-this should be continued... work from SIIT
+this shall be continued...
 
 # app features:
 
